@@ -1,0 +1,1 @@
+{"version":3,"sources":["reset.css"],"names":[],"mappings":"AAAA,iBAKE,SAAU,CACV,QACF","file":"reset.28b5c6d7.css","sourceRoot":"..\\src","sourcesContent":["ul,\nli,\nbody,\na,\nnav {\n  padding: 0;\n  margin: 0;\n}\n"]}
